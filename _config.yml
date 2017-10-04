@@ -1,5 +1,5 @@
 # Your presentation title
-title: Wiener App Werkstatt
+title: Oliver Hoffmann
 
 # The Reveal theme
 reveal_theme: black.css
@@ -24,6 +24,6 @@ reveal_path: reveal.js/
 
 # Don't change anything below
 markdown: redcarpet
-highlighter: pygments
+highlighter: rouge
 markdown_ext: ignoreme
 
